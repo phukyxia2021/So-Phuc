@@ -1,0 +1,10 @@
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\bin\Debug\TinhToanSoPhuc_Winform.exe.config
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\bin\Debug\TinhToanSoPhuc_Winform.exe
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\bin\Debug\TinhToanSoPhuc_Winform.pdb
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\obj\Debug\TinhToanSoPhuc_Winform.csproj.AssemblyReference.cache
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\obj\Debug\TinhToanSoPhuc_Winform.Form1.resources
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\obj\Debug\TinhToanSoPhuc_Winform.Properties.Resources.resources
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\obj\Debug\TinhToanSoPhuc_Winform.csproj.GenerateResource.cache
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\obj\Debug\TinhToanSoPhuc_Winform.csproj.CoreCompileInputs.cache
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\obj\Debug\TinhToanSoPhuc_Winform.exe
+C:\Users\PhuKyXia\Desktop\C Sharp\TinhToanSoPhuc_Winform\TinhToanSoPhuc_Winform\obj\Debug\TinhToanSoPhuc_Winform.pdb
